@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Devel0perShahin
-- 👀 I’m interested in jaVascript
+- 👀 I’m interested in javaScript
 - 🌱 I’m currently learning NodeJs
 - 💞️ I’m looking to collaborate on teachers and experts
 - 📫 How to reach me Shahinulislampatoary@gmail.com
